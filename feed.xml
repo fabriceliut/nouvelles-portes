@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>nextdoor</title>
+    <link href="http://github.com/slaapme/nxtdr/feed.xml" rel="self" />
+    <link href="http://github.com/slaapme/nxtdr" />
+    <updated>2018-02-20T10:27:50+01:00</updated>
+    <author>
+        <name>Fabrice Liut</name>
+    </author>
+    <id>http://github.com/slaapme/nxtdr</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="http://github.com/slaapme/nxtdr/test.html"/>
+        <id>http://github.com/slaapme/nxtdr/test.html</id>
+
+        <updated>2018-02-20T10:25:02+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                Voil&agrave; de quoi tester le bon fonctionnement du site.
+            ]]>
+        </content>
+    </entry>
+</feed>
