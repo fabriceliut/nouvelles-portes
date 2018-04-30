@@ -3,12 +3,32 @@
     <title>nextdoor</title>
     <link href="https://slaapme.github.io/nxtdr/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/nxtdr" />
-    <updated>2018-04-29T16:36:36+02:00</updated>
+    <updated>2018-04-30T18:06:57+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
     <id>https://slaapme.github.io/nxtdr</id>
 
+    <entry>
+        <title>Articles et essais</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/nxtdr/articles/"/>
+        <id>https://slaapme.github.io/nxtdr/articles/</id>
+            <category term="Expériences"/>
+
+        <updated>2018-04-30T18:06:45+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/nxtdr/media/posts/11/duotone.png" alt="" />
+                <p>NextDoor c'est surtout des projets, expériences et rencontres physiques, mais c'est aussi des recherches, des retours d'expériences, un peu de plume pour inspirer, motiver et ouvrir des portes d'esprit avant d'ouvrir celles de l'action !</p>
+<p class="msg msg--highlight "><a href="https://medium.com/a-road-to-life" target="_blank" rel="noopener noreferrer">Découvrir la publication sur Medium</a></p>
+<p>Cette publication regroupe des recherches sans fil conducteur particulier. Il y a de la poésie, des cas d'études, des démarches inspirantes, sensibles... Demain, toi aussi tu pourrais écrire un billet qui sera publié. C'est ouvert, alors n'hésites pas à nous contacter. La seule "règle éditoriale" ? Inviter à pousser des portes de curiosité :)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Temps nouveaux</title>
         <author>
