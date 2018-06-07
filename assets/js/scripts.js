@@ -33,27 +33,6 @@
     // iOS :hover fix
     document.addEventListener("touchend", function() {});
 
-    // EU Cookie Law Bar
-    $(window).on("load", function () {
-        var cookieBar = $('.js-cookie-bar');
-
-        if(!cookieBar.length) {
-            return;
-        }
-
-        var cookieBarClose = cookieBar.find('.cookie-bar__close');
-
-        cookieBarClose.on('click', function(event) {
-            event.preventDefault();
-            localStorage.setItem('theme-cookie-bar', true);
-            cookieBar.removeClass('is-sticky');
-        });
-
-        if(!localStorage.getItem('theme-cookie-bar')) {
-            cookieBar.addClass('is-sticky');
-        }
-    });
-
     // Sticky menu animation
     $(function($) {
         var menu = $('.js-top');
@@ -189,20 +168,20 @@
             return !!popup;
         }
     });
-	
-	
-	// Search overlay
-	$(function () {
-		$('.search__btn').click(function () {
-			$('.search__overlay').addClass('expanded');
-			setTimeout(function () {
-				$('.search__input').focus();
-			}, 50);
-		});
 
-		$('.search__close').click(function () {
-			$('.search__overlay').removeClass('expanded');
-		});
-	});
-	
+
+    // Search overlay
+    $(function () {
+        $('.search__btn').click(function () {
+            $('.search__overlay').addClass('expanded');
+            setTimeout(function () {
+                $('.search__input').focus();
+            }, 50);
+        });
+
+        $('.search__close').click(function () {
+            $('.search__overlay').removeClass('expanded');
+        });
+    });
+
 })(jQuery);

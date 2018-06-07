@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>nextdoor</title>
+    <title>nouvelles-portes</title>
     <link href="https://slaapme.github.io/nxtdr/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/nxtdr" />
-    <updated>2018-04-30T18:06:57+02:00</updated>
+    <updated>2018-06-07T10:49:46+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://slaapme.github.io/nxtdr/articles/</id>
             <category term="Expériences"/>
 
-        <updated>2018-04-30T18:06:45+02:00</updated>
+        <updated>2018-06-07T10:44:54+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/11/duotone.png" alt="" />
-                <p>NextDoor c'est surtout des projets, expériences et rencontres physiques, mais c'est aussi des recherches, des retours d'expériences, un peu de plume pour inspirer, motiver et ouvrir des portes d'esprit avant d'ouvrir celles de l'action !</p>
+                <p>Nouvelles portes c'est surtout des projets, expériences et rencontres physiques, mais c'est aussi des recherches, des retours d'expériences, un peu de plume pour inspirer, motiver et ouvrir des portes d'esprit avant d'ouvrir celles de l'action !</p>
 <p class="msg msg--highlight "><a href="https://medium.com/a-road-to-life" target="_blank" rel="noopener noreferrer">Découvrir la publication sur Medium</a></p>
 <p>Cette publication regroupe des recherches sans fil conducteur particulier. Il y a de la poésie, des cas d'études, des démarches inspirantes, sensibles... Demain, toi aussi tu pourrais écrire un billet qui sera publié. C'est ouvert, alors n'hésites pas à nous contacter. La seule "règle éditoriale" ? Inviter à pousser des portes de curiosité :)</p>
             ]]>
@@ -38,7 +38,7 @@
         <id>https://slaapme.github.io/nxtdr/temps-nouveaux/</id>
             <category term="Projets"/>
 
-        <updated>2018-04-29T16:34:16+02:00</updated>
+        <updated>2018-06-07T10:44:40+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -62,7 +62,7 @@
         <id>https://slaapme.github.io/nxtdr/Mouvement-naturel/</id>
             <category term="Expériences"/>
 
-        <updated>2018-04-29T16:35:37+02:00</updated>
+        <updated>2018-06-07T10:44:33+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -107,26 +107,26 @@
         </content>
     </entry>
     <entry>
-        <title>Manifesto Nxtdr</title>
+        <title>Manifesto</title>
         <author>
             <name>Fabrice Liut</name>
         </author>
-        <link href="https://slaapme.github.io/nxtdr/Manifesto-2/"/>
-        <id>https://slaapme.github.io/nxtdr/Manifesto-2/</id>
+        <link href="https://slaapme.github.io/nxtdr/manifesto/"/>
+        <id>https://slaapme.github.io/nxtdr/manifesto/</id>
             <category term="Vision"/>
 
-        <updated>2018-04-29T16:28:31+02:00</updated>
+        <updated>2018-06-07T10:44:14+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/8/why.png" alt="" />
                 <blockquote>
-<p><em><strong>« NextDoor est un projet très large dans son expression et centré sur la curiosité. Il n’a aucune porté lucrative et existe sans objectif défini restant en constante évolution »</strong></em></p>
+<p><em><strong>« Nouvelles portes est un projet très large dans son expression et centré sur la curiosité. Il n’a aucune porté lucrative et existe sans objectif défini restant en constante évolution »</strong></em></p>
 </blockquote>
 <p><em><a href="https://medium.com/a-road-to-life/manifeste-dun-monde-connect%C3%A9-b5f4322b42b2#.9cb17pfio" target="_blank" rel="noopener noreferrer"><strong>Lire le Manifeste complet</strong></a></em></p>
-<h2> Le projet Next Door est tourné vers l’humain.</h2>
+<h2> Le projet Nouvelles portes est tourné vers l’humain.</h2>
 <p>Peut être que votre vie est un long couloir, ou vous apercevez à peine la porte de sortie dans le fond, ayant oublié les autres possibilités de voyage. Pourtant, à chaque instant, de nouvelles portes s’ouvrent, sur les côtés !</p>
-<p><em><strong>Next Door vous propose de découvrir ces portes, d’entrevoir de nouveaux chemins possibles en les ouvrant pour vous. Il vous appartient ensuite de les franchir ou non.</strong></em></p>
+<p><em><strong>Nouvelles portes vous propose de découvrir ces portes, d’entrevoir de nouveaux chemins possibles en les ouvrant pour vous. Il vous appartient ensuite de les franchir ou non.</strong></em></p>
 <p>C’est un projet qui se veut le plus éclectique possible, car il n’y a pas plus de vérité dans une direction qu’une autre, tout a autant de sens. De l’Ayurveda au Bio-hacking, en passant par la Questiologie, le Théâtre d’improvisation ou le mouvement naturel, découvrez tous types de curiosités pour alimenter votre propre dynamique, vous nourrir des « légendes personnelles » <em>(Paulo Coelho, l’Alchimiste)</em> de chacun pour construire la votre !</p>
 <h2>A l’origine, un simple curieux qui voulait partager.</h2>
 <p><strong>Fabrice</strong>, Créateur du projet, souhaitait avant tout trouver son propre chemin. Et c’est en avançant dans la vie avec des objectifs, des recherches d’optimisations et d’efficience, qu’il s’est rendu compte que cette route ne mènerait qu’à une porte toujours close.</p>
