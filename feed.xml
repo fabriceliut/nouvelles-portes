@@ -3,7 +3,7 @@
     <title>nouvelles-portes</title>
     <link href="https://slaapme.github.io/nxtdr/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/nxtdr" />
-    <updated>2018-07-09T23:59:56+02:00</updated>
+    <updated>2018-07-10T00:14:39+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
@@ -14,11 +14,11 @@
         <author>
             <name>Fabrice Liut</name>
         </author>
-        <link href="https://slaapme.github.io/nxtdr/Podcast/"/>
-        <id>https://slaapme.github.io/nxtdr/Podcast/</id>
+        <link href="https://slaapme.github.io/nxtdr/podcast/"/>
+        <id>https://slaapme.github.io/nxtdr/podcast/</id>
             <category term="Projets"/>
 
-        <updated>2018-07-09T23:59:45+02:00</updated>
+        <updated>2018-07-10T00:05:04+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -26,7 +26,7 @@
                 <p>Nouvelles portes c'est aussi <a href="https://anchor.fm/nextdoor" target="_blank" rel="noopener noreferrer">un podcast audio</a>. C'est toujours une discussion en physique et en direct, sans coupure et sans montage.</p>
 <p>C'est un moment privilégié avec un curieux qui a 3 considérations ou réflexions du moment à partager. C'est une opportunité de partager un moment "intîme", un moment pendant lequel l'auditeur peut explorer "comment tu penses", s'en inspirer et nourrir sa propre expérience.</p>
 <p class="msg msg--highlight "><a href="https://anchor.fm/nextdoor" target="_blank" rel="noopener noreferrer">Découvrir le podcast audio</a></p>
-<p><iframe width="650px" height="102px" src="https://anchor.fm/nextdoor/embed/episodes/Curiosits-9-avec-Elise--global--local--communs-et-perso-e1p66m/a-a4ajvc" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe width="100%" height="102px" src="https://anchor.fm/nextdoor/embed/episodes/Curiosits-9-avec-Elise--global--local--communs-et-perso-e1p66m/a-a4ajvc" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
             ]]>
         </content>
@@ -38,9 +38,9 @@
         </author>
         <link href="https://slaapme.github.io/nxtdr/articles/"/>
         <id>https://slaapme.github.io/nxtdr/articles/</id>
-            <category term="Expériences"/>
+            <category term="Projets"/>
 
-        <updated>2018-07-09T23:33:53+02:00</updated>
+        <updated>2018-07-10T00:05:19+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -84,18 +84,20 @@
         <id>https://slaapme.github.io/nxtdr/Mouvement-naturel/</id>
             <category term="Expériences"/>
 
-        <updated>2018-07-09T23:37:46+02:00</updated>
+        <updated>2018-07-10T00:14:32+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/9/poisson.png" alt="" />
                 <div>
-<div>
 <p>De la théorie à la pratiques en groupe, Quelque soit votre état de santé actuel et votre âge, <strong>bouger est pour tous !</strong></p>
 <blockquote>
 <p> "Bouger c'est s'amuser, tout simplement" - Ido portal</p>
 </blockquote>
-<figure><iframe width="640" height="359" src="https://www.youtube.com/embed/W0Wr7HsylE0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--highlight "><a href="https://www.youtube.com/watch?v=W0Wr7HsylE0" target="_blank" rel="noopener noreferrer">Découvrir Ido Portal en vidéo</a></p>
+<figure></figure>
+<figure class="post__video"></figure>
+<figure class="post__video"></figure>
 <h2>Rechercher l'équilibre en mouvement</h2>
 <figure></figure>
 <p>Tout est équilibre et notre corps a besoin de se développer, de bouger pour s’épanouir et être en bonne santé.</p>
@@ -110,19 +112,17 @@
 <p><strong>Une méditation en mouvement.</strong> Certains diront une culture, d’autres un art.</p>
 <p>Tout comme l’alimentation, le mouvement est complexe et intimement lié à notre bonheur.</p>
 </div>
-</div>
 <div> </div>
-<h2>Un expert  français du mouvement, Florian</h2>
-<div>
-<p><iframe width="640" height="360" src="https://player.vimeo.com/video/162086145?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
-<figure></figure>
+<h2>Un expert français du mouvement, Florian</h2>
 <p>Il découvre il a quelques années le mouvement naturel, sa culture et un de ses premiers mentors, Ido Portal. depuis, il bouge !</p>
+<div>
 <p>Explorer les forêts sauvages, s’ouvrir à la nature, aimer vivre de rien, se sentir bien n’importe où, prendre le temps pour écouter le vent, apprendre à maîtriser son corps, manger en écoutant ses besoins. La nature, les animaux, voilà sa vision du quotidien qu’il souhaite vous partager pour ne pas dire enseigner…</p>
 <blockquote>
 <p>« Être en accord avec la Terre. Unir son corps et son esprit »</p>
 </blockquote>
+<p class="msg msg--highlight "><a href="https://vimeo.com/162086145" target="_blank" rel="noopener noreferrer">Découvrir en vidéo avec Florian</a></p>
 <p>Etre en mouvement permet de trouver un certain équilibre entre le corps et l’esprit. Une paix. Nous sommes fait pour bouger &amp; notre corps en a besoin.</p>
-<p>Ainsi, si vous voulez découvrir le mouvement naturel avec Florian, apprendre, transmettre vos expériences, retrouver une vie équilibrée, réussir à mieux maîtriser votre corps, vous reconnecter, venez profiter de cette première expérience !</p>
+<p><strong>Ainsi, si vous voulez découvrir le mouvement naturel avec Florian, apprendre, transmettre vos expériences, retrouver une vie équilibrée, réussir à mieux maîtriser votre corps, vous reconnecter, venez profiter de cette première expérience !</strong></p>
 <p class="msg msg--highlight "><a href="https://www.facebook.com/groups/575649619262570/" target="_blank" rel="noopener noreferrer">Rejoindre le mouvement</a></p>
 </div>
             ]]>
