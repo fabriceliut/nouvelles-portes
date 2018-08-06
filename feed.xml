@@ -3,12 +3,41 @@
     <title>nouvelles-portes</title>
     <link href="https://slaapme.github.io/nxtdr/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/nxtdr" />
-    <updated>2018-08-06T13:26:18+02:00</updated>
+    <updated>2018-08-06T13:40:31+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
     <id>https://slaapme.github.io/nxtdr</id>
 
+    <entry>
+        <title>Lettre de curiosités</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/nxtdr/Lettre/"/>
+        <id>https://slaapme.github.io/nxtdr/Lettre/</id>
+            <category term="Projets"/>
+
+        <updated>2018-08-06T13:40:24+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/nxtdr/media/posts/13/lettre.png" alt="" />
+                <p>Nouvelles portes c'est aussi une lettre de curiosités, ou une newsletter si tu préfères. C'est toutes les deux semaines, avec à chaque fois des formats d'excuses à explorer ta curiosité :</p>
+<ul>
+<li>Des articles et de la veille</li>
+<li>Des vidéos et des documentaires</li>
+<li>Des textes et poèmes inspirants</li>
+<li>De la musique en invitation au voyage</li>
+<li>Des évènements</li>
+<li>D'autres formats...</li>
+</ul>
+<p class="msg msg--highlight "><strong><a href="https://www.getrevue.co/profile/nouvellesportes" target="_blank" rel="noopener noreferrer">Cette lettre, tu peux t'abonner.</a></strong></p>
+<p>Derrière, il y a toute une équipe d'explorateurs que tu pourras rencontrer par la même occasion. Et puis il y a toi ! Cette équipe est ouverte à tous ceux qui veulent inspirer la curiosité avec leurs propres explorations :)</p>
+<p>C'est un peu comme proposer des pommes à croquer si tu veux... Sans que ça transforme la vie sur terre en enfer :)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Podcast audio</title>
         <author>
@@ -40,7 +69,7 @@
         <id>https://slaapme.github.io/nxtdr/articles/</id>
             <category term="Projets"/>
 
-        <updated>2018-07-10T00:05:19+02:00</updated>
+        <updated>2018-08-06T13:29:04+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -60,7 +89,7 @@
         <id>https://slaapme.github.io/nxtdr/temps-nouveaux/</id>
             <category term="Projets"/>
 
-        <updated>2018-08-06T13:26:04+02:00</updated>
+        <updated>2018-08-06T13:28:44+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
