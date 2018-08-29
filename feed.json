@@ -10,10 +10,10 @@
     },
     "items": [
         {
-            "id": "https://slaapme.github.io/nxtdr/Lettre/",
-            "url": "https://slaapme.github.io/nxtdr/Lettre/",
+            "id": "https://slaapme.github.io/nxtdr/lettre/",
+            "url": "https://slaapme.github.io/nxtdr/lettre/",
             "title": "Lettre de curiosités",
-            "content_html": "<p>Nouvelles portes c'est aussi une lettre de curiosités, ou une newsletter si tu préfères. C'est toutes les deux semaines, avec à chaque fois des formats d'excuses à explorer ta curiosité :</p>\n<ul>\n<li>Des articles et de la veille</li>\n<li>Des vidéos et des documentaires</li>\n<li>Des textes et poèmes inspirants</li>\n<li>De la musique en invitation au voyage</li>\n<li>Des évènements</li>\n<li>D'autres formats...</li>\n</ul>\n<p class=\"msg msg--highlight \"><strong><a href=\"https://www.getrevue.co/profile/nouvellesportes\" target=\"_blank\" rel=\"noopener noreferrer\">Cette lettre, tu peux t'abonner.</a></strong></p>\n<p>Derrière, il y a toute une équipe d'explorateurs que tu pourras rencontrer par la même occasion. Et puis il y a toi ! Cette équipe est ouverte à tous ceux qui veulent inspirer la curiosité avec leurs propres explorations :)</p>\n<p>C'est un peu comme proposer des pommes à croquer si tu veux... Sans que ça transforme la vie sur terre en enfer :)</p>",
+            "content_html": "<p>Nouvelles portes c'est aussi une lettre de curiosités, ou une newsletter si tu préfères. C'est toutes les deux semaines, avec à chaque fois des excuses pour explorer par ta curiosité :</p>\n<ul>\n<li>Des articles et de la veille</li>\n<li>Des vidéos et des documentaires</li>\n<li>Des textes et poèmes inspirants</li>\n<li>De la musique en invitation au voyage</li>\n<li>Des évènements</li>\n<li>D'autres formats...</li>\n</ul>\n<p class=\"msg msg--highlight \"><strong><a href=\"https://www.getrevue.co/profile/nouvellesportes\" target=\"_blank\" rel=\"noopener noreferrer\">Cette lettre, tu peux t'abonner.</a></strong></p>\n<p>Derrière, il y a toute une équipe d'explorateurs que tu pourras rencontrer par la même occasion. Et puis il y a toi ! Cette équipe est ouverte à tous ceux qui veulent inspirer la curiosité avec leurs propres explorations :)</p>\n<p>C'est un peu comme proposer des pommes à croquer si tu veux... Sans que ça transforme la vie sur terre en enfer :)</p>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/13/lettre.png",
             "author": {
                 "name": "Fabrice Liut"
@@ -22,13 +22,13 @@
                    "Projets"
             ],
             "date_published": "2018-08-06T13:39:13+02:00",
-            "date_modified": "2018-08-06T13:40:24+02:00"
+            "date_modified": "2018-08-29T15:36:00+02:00"
         },
         {
             "id": "https://slaapme.github.io/nxtdr/podcast/",
             "url": "https://slaapme.github.io/nxtdr/podcast/",
             "title": "Podcast audio",
-            "content_html": "<p>Nouvelles portes c'est aussi <a href=\"https://anchor.fm/nextdoor\" target=\"_blank\" rel=\"noopener noreferrer\">un podcast audio</a>. C'est toujours une discussion en physique et en direct, sans coupure et sans montage.</p>\n<p>C'est un moment privilégié avec un curieux qui a 3 considérations ou réflexions du moment à partager. C'est une opportunité de partager un moment \"intîme\", un moment pendant lequel l'auditeur peut explorer \"comment tu penses\", s'en inspirer et nourrir sa propre expérience.</p>\n<p class=\"msg msg--highlight \"><a href=\"https://anchor.fm/nextdoor\" target=\"_blank\" rel=\"noopener noreferrer\">Découvrir le podcast audio</a></p>\n<p><iframe width=\"100%\" height=\"102px\" src=\"https://anchor.fm/nextdoor/embed/episodes/Curiosits-9-avec-Elise--global--local--communs-et-perso-e1p66m/a-a4ajvc\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\n<p> </p>",
+            "content_html": "<p>Nouvelles portes c'est aussi <a href=\"https://anchor.fm/nextdoor\" target=\"_blank\" rel=\"noopener noreferrer\">un podcast audio</a>. C'est toujours une discussion en physique et en direct, sans coupure et sans montage.</p>\n<p>C'est un moment privilégié avec un curieux qui a 3 curiosités ou réflexions du moment à partager. C'est une opportunité pour un beau moment \"intîme\", un moment pendant lequel l'auditeur peut explorer \"comment tu penses\", s'en inspirer et nourrir sa propre expérience.</p>\n<p class=\"msg msg--highlight \"><a href=\"https://anchor.fm/nextdoor\" target=\"_blank\" rel=\"noopener noreferrer\">Découvrir le podcast audio</a></p>\n<p><iframe width=\"100%\" height=\"102px\" src=\"https://anchor.fm/nextdoor/embed/episodes/Curiosits-9-avec-Elise--global--local--communs-et-perso-e1p66m/a-a4ajvc\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\n<p> </p>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/12/papillons.png",
             "author": {
                 "name": "Fabrice Liut"
@@ -37,7 +37,7 @@
                    "Projets"
             ],
             "date_published": "2018-07-09T23:59:45+02:00",
-            "date_modified": "2018-07-10T00:05:04+02:00"
+            "date_modified": "2018-08-29T15:36:51+02:00"
         },
         {
             "id": "https://slaapme.github.io/nxtdr/articles/",
@@ -52,13 +52,13 @@
                    "Projets"
             ],
             "date_published": "2018-04-30T18:06:45+02:00",
-            "date_modified": "2018-08-06T13:29:04+02:00"
+            "date_modified": "2018-08-29T15:37:15+02:00"
         },
         {
-            "id": "https://slaapme.github.io/nxtdr/temps-nouveaux/",
-            "url": "https://slaapme.github.io/nxtdr/temps-nouveaux/",
-            "title": "Temps nouveaux",
-            "content_html": "<p>Expression de la transition de notre société, renouveau de nos habitudes et de nos idées, \"Temps nouveaux\" est un projet local lyonnais et collaboratif.</p>\n<p>Associer les communautés lyonnaises pour raconter une histoire ensemble. Préparer des saisons et leurs épisodes, en partant d'une inspiration artistique et philosophique (parce qu'il faut bien un point de départ à un mouvement).</p>\n<h2>Point de vue</h2>\n<p>Représentant même de l'individu, son point de vue, déterminant sa réalité subjective. Cette perception du réel entraine une construction identitaire propre à lui-même, en constante évolution. Apporter d'autres points de vues, c'est changer sa réalité et donc son identité.</p>\n<p>Redonner du mouvement identitaire, favoriser la diversité des points de vues pour nous construire une réalité à partager et explorer ensemble, voilà le point de départ des \"Temps nouveaux\".</p>\n<p>Cette saison commence par une exposition photo et une rencontre pour mixer les points de vues et les observations. Ce premier épisode sera suivi de plusieurs autres, explorant ce fil conducteur de thèmes cohérents, se nourrissant comme un réseau neuronale jusqu'à s'ouvrir sur d'autres \"portes\" de perceptions.</p>\n<p class=\"msg msg--highlight \">Plus d'informations très prochainement :)</p>",
+            "id": "https://slaapme.github.io/nxtdr/comptoir/",
+            "url": "https://slaapme.github.io/nxtdr/comptoir/",
+            "title": "Le comptoir",
+            "content_html": "<p>Nouvelles Porte fait partie intégrante du <strong>comptoir de la transition culturelle</strong>.</p>\n<p>Notre société est en pleine transition. Pour le comptoir de la transition culturelle, ce que nous vivons n'est pas qu'une transformation numérique mais bien une transition culturelle globale. En effet, nos valeurs, nos principes, nos idéaux sont en train de changer, ce qui change les bases même de nos modes de vie.</p>\n<blockquote>\n<p>Cette période de transition entraîne une perte de sens généralisé, de la complexité et des difficultés à se projeter dans l'avenir.</p>\n</blockquote>\n<p>Le comptoir propose aux entreprises, institutions et particuliers de les accompagner pour répondre aux problématiques liées à cette transition. Nouvelles Portes intervient sur les dimensions suivantes :</p>\n<ul>\n<li><strong>La veille et l'éveil par la curiosité</strong></li>\n<li>La mise en interrelation des acteurs locaux</li>\n<li>La création d'évènement pour passer à l'action</li>\n<li>L'inspiration aux dirigeants</li>\n<li>L'accompagnement dans la gestion d'éco-systèmes</li>\n<li>La transformation philosophique</li>\n</ul>\n<p>La méthode du comptoir est simple : tout part d'une discussion conviviale. Ensuite, le comptoir va aller sur le terrain pour analyser, objectiver et faire remonter les véritables problèmes. <strong>Nouvelles Portes propose l'inspiration et la connaissance nécessaire à explorer.</strong></p>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/10/bacterie.png",
             "author": {
                 "name": "Fabrice Liut"
@@ -67,7 +67,7 @@
                    "Projets"
             ],
             "date_published": "2018-04-29T16:24:33+02:00",
-            "date_modified": "2018-08-06T13:28:44+02:00"
+            "date_modified": "2018-08-29T15:44:42+02:00"
         },
         {
             "id": "https://slaapme.github.io/nxtdr/Mouvement-naturel/",
@@ -82,13 +82,13 @@
                    "Expériences"
             ],
             "date_published": "2018-04-29T15:57:12+02:00",
-            "date_modified": "2018-08-06T13:26:11+02:00"
+            "date_modified": "2018-08-29T15:44:48+02:00"
         },
         {
             "id": "https://slaapme.github.io/nxtdr/manifesto/",
             "url": "https://slaapme.github.io/nxtdr/manifesto/",
             "title": "Manifesto",
-            "content_html": "<blockquote>\n<p><em><strong>« Nouvelles portes est un projet très large dans son expression et centré sur la curiosité. Il n’a aucune porté lucrative et existe sans objectif défini restant en constante évolution »</strong></em></p>\n</blockquote>\n<p><em><a href=\"https://medium.com/a-road-to-life/manifeste-dun-monde-connect%C3%A9-b5f4322b42b2#.9cb17pfio\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Lire le Manifeste complet</strong></a></em></p>\n<h2> Le projet Nouvelles portes est tourné vers l’humain.</h2>\n<p>Peut être que votre vie est un long couloir, ou vous apercevez à peine la porte de sortie dans le fond, ayant oublié les autres possibilités de voyage. Pourtant, à chaque instant, de nouvelles portes s’ouvrent, sur les côtés !</p>\n<p><em><strong>Nouvelles portes vous propose de découvrir ces portes, d’entrevoir de nouveaux chemins possibles en les ouvrant pour vous. Il vous appartient ensuite de les franchir ou non.</strong></em></p>\n<p>C’est un projet qui se veut le plus éclectique possible, car il n’y a pas plus de vérité dans une direction qu’une autre, tout a autant de sens. De l’Ayurveda au Bio-hacking, en passant par la Questiologie, le Théâtre d’improvisation ou le mouvement naturel, découvrez tous types de curiosités pour alimenter votre propre dynamique, vous nourrir des « légendes personnelles » <em>(Paulo Coelho, l’Alchimiste)</em> de chacun pour construire la votre !</p>\n<h2>A l’origine, un simple curieux qui voulait partager.</h2>\n<p><strong>Fabrice</strong>, Créateur du projet, souhaitait avant tout trouver son propre chemin. Et c’est en avançant dans la vie avec des objectifs, des recherches d’optimisations et d’efficience, qu’il s’est rendu compte que cette route ne mènerait qu’à une porte toujours close.</p>\n<p>Alors il décide de regarder sur les côtés, et de franchir ces nouvelles portes qu’il ouvre à chaque instant. De part une veille active, des lectures et rencontres, il s’éveille petit à petit à une vision de l’existence plus large et profonde. C’est dans cette dynamique qu’il souhaite tout simplement, partager ses découvertes et expériences, à qui bien entendu souhaite faire un bout de chemin avec lui.</p>\n<blockquote>\n<p><em>« Curiosity is a greater value than cleverness. »</em></p>\n</blockquote>",
+            "content_html": "<blockquote>\n<p><em><strong>« Nouvelles portes est un projet très large dans son expression et centré sur la curiosité. Il n’a aucune priorité lucrative et existe sans objectif défini restant en constante évolution »</strong></em></p>\n</blockquote>\n<p><em><strong><a href=\"https://medium.com/a-road-to-life/manifeste-dun-monde-connect%C3%A9-b5f4322b42b2#.9cb17pfio\" target=\"_blank\" rel=\"noopener noreferrer\">Lire le Manifeste complet</a> (2017)</strong></em></p>\n<h2>Le projet Nouvelles portes est tourné vers l'exploration par la curiosité.</h2>\n<p>Peut être que votre vie est un long couloir, ou vous apercevez à peine la lueur de lumière dans le fond, ayant oublié les autres possibilités de voyage. Pourtant, à chaque instant, de nouvelles portes s’ouvrent, sur les côtés !</p>\n<p><em><strong>Nouvelles portes vous propose de découvrir ces portes, d’entrevoir de nouveaux chemins possibles en les ouvrant pour et avec vous. Il vous appartient ensuite de les franchir ou non.</strong></em></p>\n<p>C’est un projet qui se veut le plus éclectique possible, car il n’y a pas plus de vérité dans une direction qu’une autre, tout a autant de sens. De l’Ayurveda des traditions anciennes au Bio-hacking et autre neurosciences actuelles, en passant par la Questiologie, le Théâtre d’improvisation ou le mouvement naturel, découvrez tous types de curiosités pour alimenter votre propre dynamique, vous nourrir des « légendes personnelles » <em>(Paulo Coelho, l’Alchimiste)</em> de chacun pour construire la votre !</p>\n<h2>A l’origine, un simple curieux qui voulait partager.</h2>\n<p><strong>Fabrice</strong>, Créateur du projet, souhaitait avant tout trouver son propre chemin, ses propres premiers pas. Et c’est en avançant dans la vie avec des objectifs, des recherches d’optimisations et d’efficience, qu’il s’est rendu compte que cette route ne mènerait qu’à une porte toujours close.</p>\n<p>Alors il décide de regarder sur les côtés, et de franchir ces nouvelles portes. De part une veille et curation active, des lectures et rencontres, il s’éveille petit à petit à une vision de l’existence plus large et profonde. C’est dans cette dynamique qu’il souhaite tout simplement partager ses découvertes et expériences à qui souhaite faire un bout de chemin avec lui.</p>\n<blockquote>\n<p><em>« Curiosity is a greater value than cleverness. »</em></p>\n</blockquote>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/8/champi.png",
             "author": {
                 "name": "Fabrice Liut"
@@ -97,7 +97,7 @@
                    "Vision"
             ],
             "date_published": "2018-04-29T15:52:47+02:00",
-            "date_modified": "2018-07-09T23:39:46+02:00"
+            "date_modified": "2018-08-29T15:48:44+02:00"
         }
     ]
 }
