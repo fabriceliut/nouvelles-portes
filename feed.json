@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "nouvelles-portes",
+    "title": "Nouvelles portes",
     "description": "",
     "home_page_url": "https://slaapme.github.io/nxtdr",
     "feed_url": "https://slaapme.github.io/nxtdr/feed.json",
@@ -10,9 +10,26 @@
     },
     "items": [
         {
+            "id": "https://slaapme.github.io/nxtdr/detente-musicale/",
+            "url": "https://slaapme.github.io/nxtdr/detente-musicale/",
+            "title": "Détente musicale",
+            "summary": "Détendre l'esprit et le corps par la musique. Régulièrement, Nouvelles Portes propose&hellip;",
+            "content_html": "<p>Détendre l'esprit et le corps par la musique. Régulièrement, Nouvelles Portes propose des moment d'écoute, tranquillement allongé dans des coussins, à chaque fois dans un lieu cocoon différent et avec un collectif d'artistes nouveaux.<em> (pour le moment, seulement sur Lyon)</em></p>\n<p>La musique dans la tradition indienne n'existe pas en dehors d'un contexte spirituel. En occident, cette origine c'est perdue, et la musique est souvent au second plan. Ces moments d'écoutes sont aussi des opportunités de retrouver le lien avec la puissance musicale et ses bénéfices pour la santé, autant du corps que de l'esprit.</p>\n<p>En général, les sessions durent entre 3 et 4 heures. Bien entendu, vous venez et partez quand vous voulez, c'est un moment totalement libre et pour vous.</p>\n<h3 id=\"mcetoc_1d075lv8i0\">Inspiration sonore.</h3>\n<p><iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/538746231&amp;color=%2327a2ea&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\"></iframe></p>",
+            "image": "https://slaapme.github.io/nxtdr/media/posts/14/detentemusicale.jpg",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+                   "Expériences"
+            ],
+            "date_published": "2019-01-02T12:30:23+01:00",
+            "date_modified": "2019-01-02T12:38:03+01:00"
+        },
+        {
             "id": "https://slaapme.github.io/nxtdr/lettre/",
             "url": "https://slaapme.github.io/nxtdr/lettre/",
             "title": "Lettre de curiosités",
+            "summary": "Nouvelles portes c'est aussi une lettre de curiosités, ou une newsletter si&hellip;",
             "content_html": "<p>Nouvelles portes c'est aussi une lettre de curiosités, ou une newsletter si tu préfères. C'est toutes les deux semaines, avec à chaque fois des excuses pour explorer par ta curiosité :</p>\n<ul>\n<li>Des articles et de la veille</li>\n<li>Des vidéos et des documentaires</li>\n<li>Des textes et poèmes inspirants</li>\n<li>De la musique en invitation au voyage</li>\n<li>Des évènements</li>\n<li>D'autres formats...</li>\n</ul>\n<p class=\"msg msg--highlight \"><strong><a href=\"https://www.getrevue.co/profile/nouvellesportes\" target=\"_blank\" rel=\"noopener noreferrer\">Cette lettre, tu peux t'abonner.</a></strong></p>\n<p>Derrière, il y a toute une équipe d'explorateurs que tu pourras rencontrer par la même occasion. Et puis il y a toi ! Cette équipe est ouverte à tous ceux qui veulent inspirer la curiosité avec leurs propres explorations :)</p>\n<p>C'est un peu comme proposer des pommes à croquer si tu veux... Sans que ça transforme la vie sur terre en enfer :)</p>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/13/lettre.png",
             "author": {
@@ -28,6 +45,7 @@
             "id": "https://slaapme.github.io/nxtdr/podcast/",
             "url": "https://slaapme.github.io/nxtdr/podcast/",
             "title": "Podcast audio",
+            "summary": "Nouvelles portes c'est aussi un podcast audio. C'est toujours une discussion en&hellip;",
             "content_html": "<p>Nouvelles portes c'est aussi <a href=\"https://anchor.fm/nextdoor\" target=\"_blank\" rel=\"noopener noreferrer\">un podcast audio</a>. C'est toujours une discussion en physique et en direct, sans coupure et sans montage.</p>\n<p>C'est un moment privilégié avec un curieux qui a 3 curiosités ou réflexions du moment à partager. C'est une opportunité pour un beau moment \"intîme\", un moment pendant lequel l'auditeur peut explorer \"comment tu penses\", s'en inspirer et nourrir sa propre expérience.</p>\n<p class=\"msg msg--highlight \"><a href=\"https://anchor.fm/nextdoor\" target=\"_blank\" rel=\"noopener noreferrer\">Découvrir le podcast audio</a></p>\n<p><iframe width=\"100%\" height=\"102px\" src=\"https://anchor.fm/nextdoor/embed/episodes/Curiosits-9-avec-Elise--global--local--communs-et-perso-e1p66m/a-a4ajvc\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\n<p> </p>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/12/papillons.png",
             "author": {
@@ -43,6 +61,7 @@
             "id": "https://slaapme.github.io/nxtdr/articles/",
             "url": "https://slaapme.github.io/nxtdr/articles/",
             "title": "Articles et essais",
+            "summary": "Nouvelles portes c'est surtout des projets, expériences et rencontres physiques, mais c'est aussi&hellip;",
             "content_html": "<p>Nouvelles portes c'est surtout des projets, expériences et rencontres physiques, mais c'est aussi des recherches, des retours d'expériences, un peu de plume pour inspirer, motiver et ouvrir des portes d'esprit avant d'ouvrir celles de l'action !</p>\n<p class=\"msg msg--highlight \"><a href=\"https://medium.com/a-road-to-life\" target=\"_blank\" rel=\"noopener noreferrer\">Découvrir la publication sur Medium</a></p>\n<p>Cette publication regroupe des recherches sans fil conducteur particulier. Il y a de la poésie, des cas d'études, des démarches inspirantes, sensibles... Demain, toi aussi tu pourrais écrire un billet qui sera publié. C'est ouvert, alors n'hésites pas à nous contacter. La seule \"règle éditoriale\" ? Inviter à pousser des portes de curiosité :)</p>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/11/insects.png",
             "author": {
@@ -57,8 +76,9 @@
         {
             "id": "https://slaapme.github.io/nxtdr/comptoir/",
             "url": "https://slaapme.github.io/nxtdr/comptoir/",
-            "title": "Le comptoir",
-            "content_html": "<p>Nouvelles Porte fait partie intégrante du <strong>comptoir de la transition culturelle</strong>.</p>\n<p>Notre société est en pleine transition. Pour le comptoir de la transition culturelle, ce que nous vivons n'est pas qu'une transformation numérique mais bien une transition culturelle globale. En effet, nos valeurs, nos principes, nos idéaux sont en train de changer, ce qui change les bases même de nos modes de vie.</p>\n<blockquote>\n<p>Cette période de transition entraîne une perte de sens généralisé, de la complexité et des difficultés à se projeter dans l'avenir.</p>\n</blockquote>\n<p>Le comptoir propose aux entreprises, institutions et particuliers de les accompagner pour répondre aux problématiques liées à cette transition. Nouvelles Portes intervient sur les dimensions suivantes :</p>\n<ul>\n<li><strong>La veille et l'éveil par la curiosité</strong></li>\n<li>La mise en interrelation des acteurs locaux</li>\n<li>La création d'évènement pour passer à l'action</li>\n<li>L'inspiration aux dirigeants</li>\n<li>L'accompagnement dans la gestion d'éco-systèmes</li>\n<li>La transformation philosophique</li>\n</ul>\n<p>La méthode du comptoir est simple : tout part d'une discussion conviviale. Ensuite, le comptoir va aller sur le terrain pour analyser, objectiver et faire remonter les véritables problèmes. <strong>Nouvelles Portes propose l'inspiration et la connaissance nécessaire à explorer.</strong></p>",
+            "title": "Le Comptoir",
+            "summary": "Nouvelles Portes fait partie intégrante du Comptoir de la transition culturelle. Notre&hellip;",
+            "content_html": "<p>Nouvelles Portes fait partie intégrante du <strong>Comptoir de la transition culturelle</strong>.</p>\n<p>Notre société est en pleine transition. Pour le comptoir de la transition culturelle, ce que nous vivons n'est pas qu'une transformation numérique mais bien une transition culturelle globale. En effet, nos valeurs, nos principes, nos idéaux sont en train de changer, ce qui change les bases même de nos modes de vie.</p>\n<blockquote>\n<p>Cette période de transition entraîne une perte de sens généralisé, de la complexité et des difficultés à se projeter dans l'avenir.</p>\n</blockquote>\n<p>Le comptoir propose aux entreprises, institutions et particuliers de les accompagner pour répondre aux problématiques liées à cette transition. Nouvelles Portes intervient sur les dimensions suivantes :</p>\n<ul>\n<li><strong>La veille et l'éveil par la curiosité</strong></li>\n<li>La mise en interrelation des acteurs locaux</li>\n<li>La création d'évènement pour passer à l'action</li>\n<li>L'inspiration aux dirigeants</li>\n<li>L'accompagnement dans la gestion d'éco-systèmes</li>\n<li>La transformation philosophique</li>\n</ul>\n<p>La méthode du Comptoir est simple : tout part d'une discussion conviviale. Ensuite, le comptoir va aller sur le terrain pour analyser, objectiver et faire remonter les véritables problèmes. <strong>Nouvelles Portes propose l'inspiration et la connaissance nécessaire à explorer.</strong></p>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/10/bacterie.png",
             "author": {
                 "name": "Fabrice Liut"
@@ -67,12 +87,13 @@
                    "Projets"
             ],
             "date_published": "2018-04-29T16:24:33+02:00",
-            "date_modified": "2018-08-29T15:44:42+02:00"
+            "date_modified": "2019-01-02T12:18:42+01:00"
         },
         {
             "id": "https://slaapme.github.io/nxtdr/Mouvement-naturel/",
             "url": "https://slaapme.github.io/nxtdr/Mouvement-naturel/",
             "title": "Mouvement naturel",
+            "summary": "De la théorie à la pratiques en groupe, Quelque soit votre état de&hellip;",
             "content_html": "<div>\n<p>De la théorie à la pratiques en groupe, Quelque soit votre état de santé actuel et votre âge, <strong>bouger est pour tous !</strong></p>\n<blockquote>\n<p> \"Bouger c'est s'amuser, tout simplement\" - Ido portal</p>\n</blockquote>\n<p class=\"msg msg--highlight \"><a href=\"https://www.youtube.com/watch?v=W0Wr7HsylE0\" target=\"_blank\" rel=\"noopener noreferrer\">Découvrir Ido Portal en vidéo</a></p>\n<figure></figure>\n<figure class=\"post__video\"></figure>\n<figure class=\"post__video\"></figure>\n<h2>Rechercher l'équilibre en mouvement</h2>\n<figure></figure>\n<p>Tout est équilibre et notre corps a besoin de se développer, de bouger pour s’épanouir et être en bonne santé.</p>\n<p>Bouger naturellement est <strong>un acte fondamental pour une vie saine</strong> . Au sens propre.</p>\n<p>Cette manière de vivre, de prendre conscience de son corps, de savoir se déplacer, se mouvoir, permet de trouver un équilibre et d’être tout simplement bien au quotidien.</p>\n<p>Cette pratique est non traumatisante, elle ne brusque pas le corps. Il ne s’agit pas de casser beaucoup de fibres en soulevant de grosses charges ou en faisant le plus de répétitions possibles. il faut plutôt voir la création de nouveaux chemins nerveux. Quand on bouge, on doit en être pleinement conscient. <strong>Nourrir le corps par la pratique du mouvement</strong>. Bouger en harmonie.</p>\n<blockquote>\n<p> « Ne pas attendre de perdre ce qu’on a, pour ensuite regretter de ne plus l’avoir… » - Ido portal </p>\n</blockquote>\n<p>On apprend tous les jours de nos erreurs, de nos découvertes et aussi des autres. Transmettre fait partie de nos dons naturels.</p>\n<p>Le mouvement naturel est un retour au sources pour qui veut s’ouvrir à lui-même et au monde, en profondeur.</p>\n<p><strong>Une méditation en mouvement.</strong> Certains diront une culture, d’autres un art.</p>\n<p>Tout comme l’alimentation, le mouvement est complexe et intimement lié à notre bonheur.</p>\n</div>\n<div> </div>\n<h2>Un expert français du mouvement, Florian</h2>\n<p>Il découvre il a quelques années le mouvement naturel, sa culture et un de ses premiers mentors, Ido Portal. depuis, il bouge !</p>\n<div>\n<p>Explorer les forêts sauvages, s’ouvrir à la nature, aimer vivre de rien, se sentir bien n’importe où, prendre le temps pour écouter le vent, apprendre à maîtriser son corps, manger en écoutant ses besoins. La nature, les animaux, voilà sa vision du quotidien qu’il souhaite vous partager pour ne pas dire enseigner…</p>\n<blockquote>\n<p>« Être en accord avec la Terre. Unir son corps et son esprit »</p>\n</blockquote>\n<p class=\"msg msg--highlight \"><a href=\"https://vimeo.com/162086145\" target=\"_blank\" rel=\"noopener noreferrer\">Découvrir en vidéo avec Florian</a></p>\n<p>Etre en mouvement permet de trouver un certain équilibre entre le corps et l’esprit. Une paix. Nous sommes fait pour bouger &amp; notre corps en a besoin.</p>\n<p><strong>Ainsi, si vous voulez découvrir le mouvement naturel avec Florian, apprendre, transmettre vos expériences, retrouver une vie équilibrée, réussir à mieux maîtriser votre corps, vous reconnecter, venez profiter de cette première expérience !</strong></p>\n<p class=\"msg msg--highlight \"><a href=\"https://www.facebook.com/groups/575649619262570/\" target=\"_blank\" rel=\"noopener noreferrer\">Rejoindre le mouvement</a></p>\n</div>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/9/poisson.png",
             "author": {
@@ -88,6 +109,7 @@
             "id": "https://slaapme.github.io/nxtdr/manifesto/",
             "url": "https://slaapme.github.io/nxtdr/manifesto/",
             "title": "Manifesto",
+            "summary": "« Nouvelles portes est un projet très large dans son expression et centré&hellip;",
             "content_html": "<blockquote>\n<p><em><strong>« Nouvelles portes est un projet très large dans son expression et centré sur la curiosité. Il n’a aucune priorité lucrative et existe sans objectif défini restant en constante évolution »</strong></em></p>\n</blockquote>\n<p><em><strong><a href=\"https://medium.com/a-road-to-life/manifeste-dun-monde-connect%C3%A9-b5f4322b42b2#.9cb17pfio\" target=\"_blank\" rel=\"noopener noreferrer\">Lire le Manifeste complet</a> (2017)</strong></em></p>\n<h2>Le projet Nouvelles portes est tourné vers l'exploration par la curiosité.</h2>\n<p>Peut être que votre vie est un long couloir, ou vous apercevez à peine la lueur de lumière dans le fond, ayant oublié les autres possibilités de voyage. Pourtant, à chaque instant, de nouvelles portes s’ouvrent, sur les côtés !</p>\n<p><em><strong>Nouvelles portes vous propose de découvrir ces portes, d’entrevoir de nouveaux chemins possibles en les ouvrant pour et avec vous. Il vous appartient ensuite de les franchir ou non.</strong></em></p>\n<p>C’est un projet qui se veut le plus éclectique possible, car il n’y a pas plus de vérité dans une direction qu’une autre, tout a autant de sens. De l’Ayurveda des traditions anciennes au Bio-hacking et autre neurosciences actuelles, en passant par la Questiologie, le Théâtre d’improvisation ou le mouvement naturel, découvrez tous types de curiosités pour alimenter votre propre dynamique, vous nourrir des « légendes personnelles » <em>(Paulo Coelho, l’Alchimiste)</em> de chacun pour construire la votre !</p>\n<h2>A l’origine, un simple curieux qui voulait partager.</h2>\n<p><strong>Fabrice</strong>, Créateur du projet, souhaitait avant tout trouver son propre chemin, ses propres premiers pas. Et c’est en avançant dans la vie avec des objectifs, des recherches d’optimisations et d’efficience, qu’il s’est rendu compte que cette route ne mènerait qu’à une porte toujours close.</p>\n<p>Alors il décide de regarder sur les côtés, et de franchir ces nouvelles portes. De part une veille et curation active, des lectures et rencontres, il s’éveille petit à petit à une vision de l’existence plus large et profonde. C’est dans cette dynamique qu’il souhaite tout simplement partager ses découvertes et expériences à qui souhaite faire un bout de chemin avec lui.</p>\n<blockquote>\n<p><em>« Curiosity is a greater value than cleverness. »</em></p>\n</blockquote>",
             "image": "https://slaapme.github.io/nxtdr/media/posts/8/champi.png",
             "author": {

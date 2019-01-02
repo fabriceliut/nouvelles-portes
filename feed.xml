@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>nouvelles-portes</title>
+    <title>Nouvelles portes</title>
     <link href="https://slaapme.github.io/nxtdr/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/nxtdr" />
-    <updated>2018-08-29T15:48:52+02:00</updated>
+    <updated>2019-01-02T12:38:09+01:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
     <id>https://slaapme.github.io/nxtdr</id>
 
+    <entry>
+        <title>Détente musicale</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/nxtdr/detente-musicale/"/>
+        <id>https://slaapme.github.io/nxtdr/detente-musicale/</id>
+            <category term="Expériences"/>
+
+        <updated>2019-01-02T12:38:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/nxtdr/media/posts/14/detentemusicale.jpg" alt="" />
+                    Détendre l'esprit et le corps par la musique. Régulièrement, Nouvelles Portes propose&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/nxtdr/media/posts/14/detentemusicale.jpg" alt="" />
+                <p>Détendre l'esprit et le corps par la musique. Régulièrement, Nouvelles Portes propose des moment d'écoute, tranquillement allongé dans des coussins, à chaque fois dans un lieu cocoon différent et avec un collectif d'artistes nouveaux.<em> (pour le moment, seulement sur Lyon)</em></p>
+<p>La musique dans la tradition indienne n'existe pas en dehors d'un contexte spirituel. En occident, cette origine c'est perdue, et la musique est souvent au second plan. Ces moments d'écoutes sont aussi des opportunités de retrouver le lien avec la puissance musicale et ses bénéfices pour la santé, autant du corps que de l'esprit.</p>
+<p>En général, les sessions durent entre 3 et 4 heures. Bien entendu, vous venez et partez quand vous voulez, c'est un moment totalement libre et pour vous.</p>
+<h3 id="mcetoc_1d075lv8i0">Inspiration sonore.</h3>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/538746231&amp;color=%2327a2ea&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lettre de curiosités</title>
         <author>
@@ -19,7 +46,12 @@
             <category term="Projets"/>
 
         <updated>2018-08-29T15:36:00+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/nxtdr/media/posts/13/lettre.png" alt="" />
+                    Nouvelles portes c'est aussi une lettre de curiosités, ou une newsletter si&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/13/lettre.png" alt="" />
@@ -48,7 +80,12 @@
             <category term="Projets"/>
 
         <updated>2018-08-29T15:36:51+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/nxtdr/media/posts/12/papillons.png" alt="" />
+                    Nouvelles portes c'est aussi un podcast audio. C'est toujours une discussion en&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/12/papillons.png" alt="" />
@@ -70,7 +107,12 @@
             <category term="Projets"/>
 
         <updated>2018-08-29T15:37:15+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/nxtdr/media/posts/11/insects.png" alt="" />
+                    Nouvelles portes c'est surtout des projets, expériences et rencontres physiques, mais c'est aussi&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/11/insects.png" alt="" />
@@ -81,7 +123,7 @@
         </content>
     </entry>
     <entry>
-        <title>Le comptoir</title>
+        <title>Le Comptoir</title>
         <author>
             <name>Fabrice Liut</name>
         </author>
@@ -89,12 +131,17 @@
         <id>https://slaapme.github.io/nxtdr/comptoir/</id>
             <category term="Projets"/>
 
-        <updated>2018-08-29T15:44:42+02:00</updated>
-            <summary></summary>
+        <updated>2019-01-02T12:18:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/nxtdr/media/posts/10/bacterie.png" alt="" />
+                    Nouvelles Portes fait partie intégrante du Comptoir de la transition culturelle. Notre&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/10/bacterie.png" alt="" />
-                <p>Nouvelles Porte fait partie intégrante du <strong>comptoir de la transition culturelle</strong>.</p>
+                <p>Nouvelles Portes fait partie intégrante du <strong>Comptoir de la transition culturelle</strong>.</p>
 <p>Notre société est en pleine transition. Pour le comptoir de la transition culturelle, ce que nous vivons n'est pas qu'une transformation numérique mais bien une transition culturelle globale. En effet, nos valeurs, nos principes, nos idéaux sont en train de changer, ce qui change les bases même de nos modes de vie.</p>
 <blockquote>
 <p>Cette période de transition entraîne une perte de sens généralisé, de la complexité et des difficultés à se projeter dans l'avenir.</p>
@@ -108,7 +155,7 @@
 <li>L'accompagnement dans la gestion d'éco-systèmes</li>
 <li>La transformation philosophique</li>
 </ul>
-<p>La méthode du comptoir est simple : tout part d'une discussion conviviale. Ensuite, le comptoir va aller sur le terrain pour analyser, objectiver et faire remonter les véritables problèmes. <strong>Nouvelles Portes propose l'inspiration et la connaissance nécessaire à explorer.</strong></p>
+<p>La méthode du Comptoir est simple : tout part d'une discussion conviviale. Ensuite, le comptoir va aller sur le terrain pour analyser, objectiver et faire remonter les véritables problèmes. <strong>Nouvelles Portes propose l'inspiration et la connaissance nécessaire à explorer.</strong></p>
             ]]>
         </content>
     </entry>
@@ -122,7 +169,12 @@
             <category term="Expériences"/>
 
         <updated>2018-08-29T15:44:48+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/nxtdr/media/posts/9/poisson.png" alt="" />
+                    De la théorie à la pratiques en groupe, Quelque soit votre état de&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/9/poisson.png" alt="" />
@@ -175,7 +227,12 @@
             <category term="Vision"/>
 
         <updated>2018-08-29T15:48:44+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/nxtdr/media/posts/8/champi.png" alt="" />
+                    « Nouvelles portes est un projet très large dans son expression et centré&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/8/champi.png" alt="" />
