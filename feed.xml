@@ -3,7 +3,7 @@
     <title>Nouvelles portes.</title>
     <link href="https://slaapme.github.io/nxtdr/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/nxtdr" />
-    <updated>2019-10-09T18:38:19+02:00</updated>
+    <updated>2019-10-09T18:49:11+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
@@ -147,7 +147,7 @@
         <link href="https://slaapme.github.io/nxtdr/lettre/"/>
         <id>https://slaapme.github.io/nxtdr/lettre/</id>
 
-        <updated>2019-10-09T18:38:13+02:00</updated>
+        <updated>2019-10-09T18:49:08+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://slaapme.github.io/nxtdr/media/posts/13/325-desktop-wallpaper.png" alt="" />
@@ -157,7 +157,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/nxtdr/media/posts/13/325-desktop-wallpaper.png" alt="" />
-                <p>Nouvelles portes c'est aussi une lettre de curiosités, ou une newsletter si tu préfères. C'est toutes les deux semaines, avec à chaque fois des excuses pour explorer par ta curiosité :</p>
+                <p>Nouvelles portes c'est aussi une lettre de curiosités, ou <a href="http://eepurl.com/gF0eOT" target="_blank" rel="noopener noreferrer">une newsletter</a> si tu préfères. C'est toutes les deux semaines, avec à chaque fois des excuses pour explorer par ta curiosité :</p>
 <ul>
 <li>Des articles et de la veille</li>
 <li>Des vidéos et des documentaires</li>
@@ -167,30 +167,7 @@
 <li>D'autres formats...</li>
 </ul>
 <p>Derrière, il y a toute une équipe d'explorateurs que tu pourras rencontrer par la même occasion. Et puis il y a toi ! Cette équipe est ouverte à tous ceux qui veulent inspirer la curiosité avec leurs propres explorations :)</p>
-<p> </p>
-<p><!-- Begin Mailchimp Signup Form --></p>
-<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://nxtdr.us8.list-manage.com/subscribe/post?u=81af3469052b5979766ccabff&amp;id=6da7a2dd83" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<div id="mc_embed_signup_scroll">
-<h1 id="mcetoc_1dmolvagm0">S'inscrire.</h1>
-<div class="indicates-required"> </div>
-<div class="mc-field-group"><label for="mce-EMAIL">Mail.        </label><input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value=""></div>
-<div class="mc-field-group"> </div>
-<div class="mc-field-group"> </div>
-<div class="mc-field-group"><label for="mce-FNAME">Prénom. </label><input id="mce-FNAME" class="required" name="FNAME" type="text" value=""></div>
-<div class="mc-field-group"> </div>
-<div class="mc-field-group"><label for="mce-LNAME">Nom.        </label><input id="mce-LNAME" class="required" name="LNAME" type="text" value=""></div>
-<div id="mce-responses" class="clear"> </div>
-<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-<div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_81af3469052b5979766ccabff_6da7a2dd83" type="text" value=""></div>
-<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe"></div>
-</div>
-</form></div>
-<p>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-<script type="text/javascript">// <![CDATA[
-(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
-// ]]></script>
-<!--End mc_embed_signup--></p>
+<h2 id="mcetoc_1dmoml0l90"><span style="text-decoration: underline;"><a href="http://eepurl.com/gF0eOT" target="_blank" rel="noopener noreferrer">S'inscrire à la lettre (1 par mois)</a></span></h2>
             ]]>
         </content>
     </entry>
